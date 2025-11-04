@@ -1,0 +1,20 @@
+.para{
+  height: 200px;
+  width:800px;
+  /* border:1px solid black; */
+  margin-left: 300px;
+  
+}
+.para1{
+  display: flex;
+  justify-content: space-around;
+  font-size: larger;
+}
+.para2{
+  font-size: x-large;
+  background-color: blueviolet;
+  color: aliceblue;
+  justify-items: center;
+  margin-top: 30px;
+  
+}
