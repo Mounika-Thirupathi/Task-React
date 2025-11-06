@@ -1,0 +1,20 @@
+.select3{
+    display: flex;
+    gap:30px;
+   
+    
+}
+.select4{
+    height:350px;
+    width:300px;
+    padding: 0px 30px;
+    font-size: large;
+    border: none;
+    transition: 0.3s ease; 
+ 
+
+}
+.select4:hover{
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); 
+    transform: scale(1.0);  
+}

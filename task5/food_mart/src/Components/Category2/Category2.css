@@ -1,0 +1,32 @@
+.parents{
+    display: flex;
+    gap:30px;
+    padding: 10px 40px;
+    margin-top: 50px;
+    justify-content: center;
+}
+.sample1{
+    height:150px;
+    width:250px;
+    border:1px solid black;
+    align-items: center;
+    font-size: x-large;
+    border-radius: 10px;
+    border: none;
+    transition: 0.3s ease; 
+}
+.sample1:hover{
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); 
+    transform: scale(1.05);   
+
+}
+
+.sample2{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.sample3{
+    margin-left: 40px;
+    
+}
