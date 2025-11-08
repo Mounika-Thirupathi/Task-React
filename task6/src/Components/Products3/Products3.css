@@ -1,0 +1,17 @@
+.select1{
+    display:flex;
+    gap:80px;
+    padding:10px 20px ;
+    font-size: larger;
+    margin-top: 100px;
+    
+}
+.select2{
+    display:flex;
+    height:230px;
+    width:700px;
+    border: 1px solid black;
+    padding: 10px 20px;
+    /* background-color:#F9EBE7; */
+
+}

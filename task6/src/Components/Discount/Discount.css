@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    gap:10px;
+    background-color:#E6F3FB;
+    font-size: x-large;
+    padding: 100px ;
+    margin-top: 80px;
+    margin-left: 60px;
+    border-radius: 20px;
+    
+    
+}
