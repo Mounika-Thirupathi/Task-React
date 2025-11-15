@@ -1,4 +1,4 @@
-import { Counter } from "./Components/counter"
+import { Counter } from "./Components/Counter"
 import {Random } from './Components/Random'
 import { Change } from "./Components/Change"
 function App(){
